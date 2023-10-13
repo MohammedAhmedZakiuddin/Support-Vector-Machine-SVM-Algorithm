@@ -1,0 +1,45 @@
+# Mohammed Ahmed Zakiuddin
+# 1001675091
+
+Dataset: BankNote
+Machine Learning Algorithm Chosen: knn
+Accuracy of Training (Scratch): 100%
+Accuracy of ScikitLearn Function: 100%
+Prediction Point: [[1.3087  4.9228  2.0013  0.22024]]
+Predicted Class: 0
+Actual Class: 0
+
+Dataset: Sonar
+Machine Learning Algorithm Chosen: knn
+Accuracy of Training (Scratch): 81%
+Accuracy of ScikitLearn Function: 83%
+Prediction Point: [[0.0217 0.0152 0.0346 0.0346 0.0484 0.0526 0.0773 0.0862 0.1451 0.211
+  0.2343 0.2087 0.1645 0.1689 0.165  0.1967 0.2934 0.3709 0.4309 0.4161
+  0.5116 0.6501 0.7717 0.8491 0.9104 0.8912 0.8189 0.6779 0.5368 0.5207
+  0.5651 0.5749 0.525  0.4255 0.333  0.2331 0.1451 0.1648 0.2694 0.373
+  0.4467 0.4133 0.3743 0.3021 0.2069 0.179  0.1689 0.1341 0.0769 0.0222
+  0.0205 0.0123 0.0067 0.0011 0.0026 0.0049 0.0029 0.0022 0.0022 0.0032]]
+Predicted Class: 0
+Actual Class: 1
+
+Dataset: BankNote
+Machine Learning Algorithm Chosen: SVM
+Accuracy of Training (Scratch): 44%
+Accuracy of ScikitLearn Function: 100%
+Prediction Point: [[1.3087  4.9228  2.0013  0.22024]]
+Predicted Class: -1.0
+Actual Class: 0
+
+Dataset: Sonar
+Machine Learning Algorithm Chosen: SVM
+Accuracy of Training (Scratch): 44%
+Accuracy of ScikitLearn Function: 79%
+Prediction Point: [[0.0217 0.0152 0.0346 0.0346 0.0484 0.0526 0.0773 0.0862 0.1451 0.211
+  0.2343 0.2087 0.1645 0.1689 0.165  0.1967 0.2934 0.3709 0.4309 0.4161
+  0.5116 0.6501 0.7717 0.8491 0.9104 0.8912 0.8189 0.6779 0.5368 0.5207
+  0.5651 0.5749 0.525  0.4255 0.333  0.2331 0.1451 0.1648 0.2694 0.373
+  0.4467 0.4133 0.3743 0.3021 0.2069 0.179  0.1689 0.1341 0.0769 0.0222
+  0.0205 0.0123 0.0067 0.0011 0.0026 0.0049 0.0029 0.0022 0.0022 0.0032]]
+Predicted Class: 1.0
+Actual Class: 1
+
