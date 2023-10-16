@@ -1,6 +1,3 @@
-# Mohammed Ahmed Zakiuddin
-# 1001675091
-
 # Instructions:
 # 1. Run the program in the command line using the following command: python MLChoice.py <model> <data>
 # 2. The program will run and output the results to a file called "output.txt"
